@@ -1,85 +1,87 @@
-<h1 align="center">Hi, I'm Naveenkumar R👋</h1>
+<div>
+  <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" height="23%" style="display:inline;">
+  <img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" height="23%" style="display:inline;">
+  <h1 align="center">Hi 👋, I'm [Your Name]</h1>
+  <h3 align="center">A passionate [Your Role] from [Your Country]</h3>
+  <p align="center">
+    I'm fascinated by how technology is reshaping the world. This curiosity led me to software development, and my enthusiasm continues to grow. 🚀
+  </p>
+</div>
+
 <p align="center">
-  <a href="https://naveenkumarr21.github.io/PortfolioNaveenkumar/">🌍 Portfolio</a> |
-  <a href="mailto:naveenkuamrr2184@gmail.com">📧 Contact</a>
+  <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
----
+<div align="center">
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="Node.js" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/mongodb-icon.svg" alt="MongoDB" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50" />
+</div>
 
-## 🚀 About Me
-🔹 AWS Cloud Practioner |  DevOps Engineer | Full Stack Developer | VR360 Developer | UI/UX & Product Designer  
-🔹 Passionate about real-time applications, cloud solutions, and immersive VR experiences  
+<br>
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<br><br>
 
----
-
-## 🌍 Domains & Expertise
-- **Cloud & DevOps:** AWS, Jenkins, Terraform, Docker, Kubernetes  
-- **Full Stack Development:** MERN, Node.js, Express, React, Angular  
-- **Mobile App Development:** Flutter, React Native  
-- **3D & VR Design:** VR360, 3DVista, After Effects  
-- **UI/UX & Product Design:** Adobe XD, Figma, Photoshop  
-
----
-
-## 🛠 Tech Stack
-
-#### 🌐 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-
-#### 🏗 Backend & DevOps
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-
-#### 🎨 Design & VR
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=flat&logo=adobe-xd&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![3DVista](https://img.shields.io/badge/3DVista-004B87?style=flat)
-![After Effects](https://img.shields.io/badge/After%20Effects-9999FF?style=flat&logo=adobe-after-effects&logoColor=white)
+- 🔭 I’m currently working at **[Your Company/Project](your-company-link)**  
+- 🌱 I’m currently learning **[Your Interests: AI, DevOps, etc.]**  
+- 💬 Ask me about **[Your Key Skills]**  
+- 📫 Reach me via [Email](your-email@example.com)  
+- 📄 Check out my portfolio: [Portfolio](your-portfolio-link)  
+- ⚡ Fun fact: **[Something interesting about you]**  
 
 ---
 
-## 📌 Featured Projects
-
-### 🔥 [KEC Study Hub](https://github.com/yourusername/kec-study-hub)
-📌 **Description:** A mobile app for Kongu Engineering College students to upload, access, and share study materials, categorized by department. It includes search filters, a discussion forum, and an ML-based verification system to detect inappropriate content.  
-🔹 **Tech Stack:** Flutter, Firebase, Node.js, Express, MongoDB, AI/ML  
-
-### 🌍 [VR360 Tour for KPR College](https://github.com/yourusername/vr360-kpr)
-📌 **Description:** A fully immersive 3D virtual tour for KPR College using **3DVista**. The project allows users to navigate the campus virtually, providing interactive hotspots, 360-degree views, and an intuitive UI.  
-🔹 **Tech Stack:** 3DVista, WebXR, JavaScript, React  
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=naveenkuamrr21&theme=dark" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark" alt="GitHub Stats" />
-</p>
-
----
-
-## 🌐 Connect with Me  
-<p align="center">
-  <a href="https://linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+<h1 align="left">Connect with me:</h1>
+<p align="left">
+  <a href="https://www.linkedin.com/in/your-profile" target="blank">
+    <img align="center" src="https://img.shields.io/badge/Linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/yourprofile">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" />
+  <a href="https://leetcode.com/your-profile" target="blank">
+    <img align="center" src="https://img.shields.io/badge/LeetCode-000000?style=flat&logo=LeetCode&logoColor=#d16c06" alt="LeetCode" />
   </a>
-  <a href="mailto:youremail@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
+  <a href="https://www.kaggle.com/your-profile" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/Kaggle-035a7d?style=flat&logo=kaggle&logoColor=white" alt="Kaggle" />
+  </a>
+  <a href="https://your-blog-link.medium.com" target="blank">
+    <img align="center" src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" alt="Medium" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/your-profile" target="blank">
+    <img align="center" src="https://img.shields.io/badge/-Hackerrank-00EA64?style=flat&logo=HackerRank&logoColor=white" alt="Hackerrank" />
   </a>
 </p>
+
+---
+
+<h1 align="left">Languages and Tools:</h1>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=react,redux,js,ts,nodejs,express,mongodb,git,github,html,css,tailwind,python,docker,kubernetes,aws,azure,gcp" />
+</a>
+
+---
+
+<h2 align="center">📊 GitHub Stats and Streak</h2>
+<div align="center">
+
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=dark) | ![GitHub Streak](https://streak-stats.demolab.com/?user=your-github-username&theme=dark) |
+| --- | --- |
+| ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=your-github-username&theme=react-dark) |
+
+</div>
+
+---
+
+<h2 align="center">🏆 Achievements</h2>
+
+| Place  | Achievement               | Description  | Icon  |
+|--------|---------------------------|-------------|-------|
+| 🥇 1st | [Hackathon Name]  | Won 1st place at [Event Name] with a prize of **₹[Amount]** | ![Icon](https://img.icons8.com/?size=50&id=X6CJMckcVrBj&format=png) |
+| 🥈 2nd | [Competition Name] | Secured 2nd place in [Event Name] at [Institution Name] | ![Icon](https://img.icons8.com/?size=50&id=dgAxfaiZaNr6&format=png) |
+| 🥉 3rd | [Another Event] | Ranked 3rd in [Hackathon/Event Name] | ![Icon](https://img.icons8.com/?size=50&id=lMwvkoCmvpSJ&format=png) |
+| 📄 | Research Paper Published | Published **"Your Research Paper Title"** in IEEE Xplore | ![Icon](https://img.icons8.com/?size=50&id=8MqrQIywEiYc&format=png) |
+
+---
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">  
+*I love connecting with different people! Feel free to reach out and say hello. 😊*
