@@ -1,23 +1,23 @@
 <div>
-  <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" height="23%" style="display:inline;">
-  <img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" height="23%" style="display:inline;">
-  <h1 align="center">Hi 👋, I'm [Your Name]</h1>
-  <h3 align="center">A passionate [Your Role] from [Your Country]</h3>
-  <p align="center">
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" height="23%" style="display:inline;">
+<img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" height="23%" style="display:inline;">
+<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h3 align="center">A passionate [Your Role] from [Your Country]</h3>
+<p align="center">
     I'm fascinated by how technology is reshaping the world. This curiosity led me to software development, and my enthusiasm continues to grow. 🚀
-  </p>
+</p>
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 <div align="center">
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="Node.js" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/mongodb-icon.svg" alt="MongoDB" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50" />
+<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="50" height="50" />
+<img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="Node.js" width="50" height="50" />
+<img src="https://techstack-generator.vercel.app/mongodb-icon.svg" alt="MongoDB" width="50" height="50" />
+<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="50" height="50" />
+<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50" />
 </div>
 
 <br>
@@ -27,7 +27,7 @@
 - 🔭 I’m currently working at **[Your Company/Project](your-company-link)**  
 - 🌱 I’m currently learning **[Your Interests: AI, DevOps, etc.]**  
 - 💬 Ask me about **[Your Key Skills]**  
-- 📫 Reach me via [Email](your-email@example.com)  
+- 📫 Reach me via [Email](your-email@example.com) | 📞 Phone: **[Your Phone Number]**  
 - 📄 Check out my portfolio: [Portfolio](your-portfolio-link)  
 - ⚡ Fun fact: **[Something interesting about you]**  
 
@@ -35,28 +35,28 @@
 
 <h1 align="left">Connect with me:</h1>
 <p align="left">
-  <a href="https://www.linkedin.com/in/your-profile" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://leetcode.com/your-profile" target="blank">
-    <img align="center" src="https://img.shields.io/badge/LeetCode-000000?style=flat&logo=LeetCode&logoColor=#d16c06" alt="LeetCode" />
-  </a>
-  <a href="https://www.kaggle.com/your-profile" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/Kaggle-035a7d?style=flat&logo=kaggle&logoColor=white" alt="Kaggle" />
-  </a>
-  <a href="https://your-blog-link.medium.com" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" alt="Medium" />
-  </a>
-  <a href="https://www.hackerrank.com/profile/your-profile" target="blank">
-    <img align="center" src="https://img.shields.io/badge/-Hackerrank-00EA64?style=flat&logo=HackerRank&logoColor=white" alt="Hackerrank" />
-  </a>
+<a href="https://www.linkedin.com/in/your-profile" target="blank">
+<img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://leetcode.com/your-profile" target="blank">
+<img align="center" src="https://img.shields.io/badge/LeetCode-000000?style=flat&logo=LeetCode&logoColor=#d16c06" alt="LeetCode" />
+</a>
+<a href="https://www.kaggle.com/your-profile" target="_blank">
+<img align="center" src="https://img.shields.io/badge/Kaggle-035a7d?style=flat&logo=kaggle&logoColor=white" alt="Kaggle" />
+</a>
+<a href="https://your-blog-link.medium.com" target="blank">
+<img align="center" src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" alt="Medium" />
+</a>
+<a href="https://www.hackerrank.com/profile/your-profile" target="blank">
+<img align="center" src="https://img.shields.io/badge/-Hackerrank-00EA64?style=flat&logo=HackerRank&logoColor=white" alt="Hackerrank" />
+</a>
 </p>
 
 ---
 
 <h1 align="left">Languages and Tools:</h1>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=react,redux,js,ts,nodejs,express,mongodb,git,github,html,css,tailwind,python,docker,kubernetes,aws,azure,gcp" />
+<img src="https://skillicons.dev/icons?i=react,redux,js,ts,nodejs,express,mongodb,git,github,html,css,tailwind,python,docker,kubernetes,aws,azure,gcp,figma,xd,photoshop,aftereffects" />
 </a>
 
 ---
@@ -65,23 +65,5 @@
 <div align="center">
 
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=dark) | ![GitHub Streak](https://streak-stats.demolab.com/?user=your-github-username&theme=dark) |
-| --- | --- |
-| ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=your-github-username&theme=react-dark) |
 
 </div>
-
----
-
-<h2 align="center">🏆 Achievements</h2>
-
-| Place  | Achievement               | Description  | Icon  |
-|--------|---------------------------|-------------|-------|
-| 🥇 1st | [Hackathon Name]  | Won 1st place at [Event Name] with a prize of **₹[Amount]** | ![Icon](https://img.icons8.com/?size=50&id=X6CJMckcVrBj&format=png) |
-| 🥈 2nd | [Competition Name] | Secured 2nd place in [Event Name] at [Institution Name] | ![Icon](https://img.icons8.com/?size=50&id=dgAxfaiZaNr6&format=png) |
-| 🥉 3rd | [Another Event] | Ranked 3rd in [Hackathon/Event Name] | ![Icon](https://img.icons8.com/?size=50&id=lMwvkoCmvpSJ&format=png) |
-| 📄 | Research Paper Published | Published **"Your Research Paper Title"** in IEEE Xplore | ![Icon](https://img.icons8.com/?size=50&id=8MqrQIywEiYc&format=png) |
-
----
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">  
-*I love connecting with different people! Feel free to reach out and say hello. 😊*
