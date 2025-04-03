@@ -45,6 +45,45 @@
 </a>
 
 ---
+# 🏆 Achievements  
+
+## List of Awards and Recognitions  
+
+| 🏅 Prize | 🏆 Competition | 🏛️ Organized By |  
+|----------|--------------|----------------|  
+| 🏆 Best Co-Curricular Student Of the Year 2024 - 2025 | 🏫 Institution Award | 🎓 KEC |  
+| 🥇 1st Prize | **KEC 30 Hours Hackathon** | IIC Forum |  
+| 🥈 2nd Prize | **GEC 12 Hours Hackathon** | IRTT, Chithode |  
+| 🥇 1st Prize | **Poster Design Contest** | SKCET |  
+| 🥇 1st Prize | **Project Presentation** | Sasurie Engineering College |  
+| 🥇 1st Prize | **Paper Presentation** | Sengunthar Engineering College |  
+| 🥇 1st Prize | **Poster Design** | Nandha Engineering College |  
+| 🥇 1st Prize | **Logo Design Contest** | ISTE Students Chapter, KEC |  
+| 🥇 1st Prize | **Logo Design Contest** | IT Association, KEC |  
+| 🥈 2nd Prize | **Paper Presentation** | CSD Dept, KEC |  
+| 🥈 2nd Prize | **Paper Presentation** | EIE, KEC |  
+| 🥉 3rd Prize | **Paper Presentation** | IT Association, KEC |  
+| 🥈 2nd Prize | **Paper Presentation** | AI Dept, KEC |  
+| 🥈 2nd Prize | **Paper Presentation** | Cloud Users Group, KEC |  
+| 🥈 2nd Prize | **Paper Presentation** | Pasumai Vanam Club, KEC |  
+| 🥈 2nd Prize | **Logo Design Contest** | Sri Sai REC |  
+| 🥉 3rd Prize | **Paper Presentation** | Self Development Club, KEC |  
+| 🥉 3rd Prize | **UI/UX Contest** | CSD Dept, KEC |  
+| 🥉 3rd Prize | **Paper Presentation** | Nandha Engineering College |  
+| 🥇 1st Prize | **Video Editing** | MADC, KEC |  
+| 🥇 1st Prize | **KEC CSD 24 Hours Hackathon** | CSD Dept, KEC |  
+
+---
+
+### 🚀 Highlights
+- Multiple **1st Prize** wins in **Hackathons, Paper Presentations, and Design Contests**.
+- Recognized by prestigious **Engineering Colleges and Student Chapters**.
+- Expertise in **UI/UX Design, Video Editing, and Competitive Hackathons**.
+
+> 🏅 *Striving for excellence in every competition!*
+
+
+
 
 <h2 align="center">📊 GitHub Stats and Streak</h2>
 <div align="center">
