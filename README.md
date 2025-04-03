@@ -53,6 +53,7 @@
 |----------|--------------|----------------|  
 | 🏆 Best Co-Curricular Student Of the Year 2024 - 2025 | 🏫 Institution Award | 🎓 KEC |  
 | 🥇 1st Prize | **KEC 30 Hours Hackathon** | IIC Forum |  
+| 🥇 1st Prize | **KEC CSD 24 Hours Hackathon** | CSD Dept, KEC |  
 | 🥈 2nd Prize | **GEC 12 Hours Hackathon** | IRTT, Chithode |  
 | 🥇 1st Prize | **Poster Design Contest** | SKCET |  
 | 🥇 1st Prize | **Project Presentation** | Sasurie Engineering College |  
@@ -71,7 +72,6 @@
 | 🥉 3rd Prize | **UI/UX Contest** | CSD Dept, KEC |  
 | 🥉 3rd Prize | **Paper Presentation** | Nandha Engineering College |  
 | 🥇 1st Prize | **Video Editing** | MADC, KEC |  
-| 🥇 1st Prize | **KEC CSD 24 Hours Hackathon** | CSD Dept, KEC |  
 
 ---
 
