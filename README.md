@@ -78,7 +78,7 @@
 ### 🚀 Highlights
 - Multiple **1st Prize** wins in **Hackathons, Paper Presentations, and Design Contests**.
 - Recognized by prestigious **Engineering Colleges and Student Chapters**.
-- Expertise in **UI/UX Design, Video Editing, and Competitive Hackathons**.
+- Expertise in **Competitive Hackathons, Strong Communication**.
 
 > 🏅 *Striving for excellence in every competition!*
 
