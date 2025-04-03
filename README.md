@@ -1,8 +1,8 @@
 <div>
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" height="23%" style="display:inline;">
 <img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" height="23%" style="display:inline;">
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
-<h3 align="center">A passionate [Your Role] from [Your Country]</h3>
+<h1 align="center">Hi 👋, I'm Naveenkumar</h1>
+<h3 align="center">A Multi-Tasking Developer from India</h3>
 <p align="center">
     I'm fascinated by how technology is reshaping the world. This curiosity led me to software development, and my enthusiasm continues to grow. 🚀
 </p>
@@ -14,8 +14,6 @@
 
 <div align="center">
 <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="50" height="50" />
-<img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="Node.js" width="50" height="50" />
-<img src="https://techstack-generator.vercel.app/mongodb-icon.svg" alt="MongoDB" width="50" height="50" />
 <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="50" height="50" />
 <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50" />
 </div>
