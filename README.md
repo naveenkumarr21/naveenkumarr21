@@ -22,7 +22,7 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <br><br>
 
-
+- 🏆 Best Co-Curricular Student Of the Year 2024 - 2025
 - 🌱 I’m currently learning **[DevOps: Terraform]**  
 - 💬 Ask me about **[AWS, MERN, UI/UX, VR360]**  
 - 📫 Reach me via [Email](naveenkumarr2184@gmail.com) | 📞 Phone: **[9384455789]**  
