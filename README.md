@@ -32,20 +32,8 @@
 
 <h1 align="left">Connect with me:</h1>
 <p align="left">
-<a href="https://www.linkedin.com/in/your-profile" target="blank">
+<a href="https://www.linkedin.com/in/naveenkumar-r-5634882a3" target="blank">
 <img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://leetcode.com/your-profile" target="blank">
-<img align="center" src="https://img.shields.io/badge/LeetCode-000000?style=flat&logo=LeetCode&logoColor=#d16c06" alt="LeetCode" />
-</a>
-<a href="https://www.kaggle.com/your-profile" target="_blank">
-<img align="center" src="https://img.shields.io/badge/Kaggle-035a7d?style=flat&logo=kaggle&logoColor=white" alt="Kaggle" />
-</a>
-<a href="https://your-blog-link.medium.com" target="blank">
-<img align="center" src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" alt="Medium" />
-</a>
-<a href="https://www.hackerrank.com/profile/your-profile" target="blank">
-<img align="center" src="https://img.shields.io/badge/-Hackerrank-00EA64?style=flat&logo=HackerRank&logoColor=white" alt="Hackerrank" />
 </a>
 </p>
 
