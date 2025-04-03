@@ -81,8 +81,7 @@
 
 
 
-<h2 align="center">📊 GitHub Stats and Streak</h2>
-<div align="center">
+
 
 
 </div>
