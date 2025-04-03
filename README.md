@@ -88,6 +88,6 @@
 <h2 align="center">📊 GitHub Stats and Streak</h2>
 <div align="center">
 
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=naveenkumarr21&show_icons=true&theme=dark) | ![GitHub Streak](https://streak-stats.demolab.com/?user=naveenkumarr21&theme=dark) |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=naveenkumarr21&show_icons=true&theme=dark) | 
 
 </div>
