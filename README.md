@@ -22,12 +22,11 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <br><br>
 
-- 🔭 I’m currently working at **[Your Company/Project](your-company-link)**  
-- 🌱 I’m currently learning **[Your Interests: AI, DevOps, etc.]**  
-- 💬 Ask me about **[Your Key Skills]**  
-- 📫 Reach me via [Email](your-email@example.com) | 📞 Phone: **[Your Phone Number]**  
-- 📄 Check out my portfolio: [Portfolio](your-portfolio-link)  
-- ⚡ Fun fact: **[Something interesting about you]**  
+
+- 🌱 I’m currently learning **[DevOps: Terraform]**  
+- 💬 Ask me about **[AWS, MERN, UI/UX, VR360]**  
+- 📫 Reach me via [Email](naveenkumarr2184@gmail.com) | 📞 Phone: **[9384455789]**  
+- 📄 Check out my portfolio: [Portfolio](https://naveenkumarr21.github.io/PortfolioNaveenkumar/)  
 
 ---
 
